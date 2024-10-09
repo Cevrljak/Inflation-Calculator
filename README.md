@@ -1,6 +1,4 @@
 
-Evo kako može izgledati README sa naglaskom na JavaScript za tvoj GitHub projekat "Inflation Calculator":
-
 Inflation Calculator
 This project is a JavaScript-based web application that allows users to input an amount of money and calculate how much it will be worth after a certain number of years, based on a given annual inflation rate.
 
